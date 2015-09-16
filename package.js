@@ -1,6 +1,6 @@
 Package.describe({
   name: 'matteodem:gridster',
-  version: '0.0.1',
+  version: '0.5.6',
   summary: 'gridster.js repackaged for Meteor',
   git: 'https://github.com/matteodem/meteor-gridster',
   documentation: 'README.md'
